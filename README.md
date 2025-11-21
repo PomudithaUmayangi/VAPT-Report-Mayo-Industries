@@ -1,4 +1,4 @@
-# 🛡️ Penetration Testing Report – Mayo Industries  
+# 🛡️ VAPT Testing Report – Mayo Industries  
 **Simulated Lab Assessment (Metasploitable & DVWA)**  
 
 **Test Duration:** 01 Sep 2025 – 03 Oct 2025  
